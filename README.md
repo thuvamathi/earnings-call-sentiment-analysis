@@ -20,8 +20,8 @@ The goal is to predict **market sentiment** based on executives' vocal delivery 
 - `Jupyter Notebooks` for experimentation
 
 ## 📂 Repository Structure
-- `data/` → raw audio & extracted features
-- `notebooks/` → step-by-step feature extraction, EDA, and training
+- `audio/` → raw audio & extracted features
+- `transcripts/` → audio transcripts
 - `src/` → Python scripts for reproducibility
 - `models/` → saved ML models
 
